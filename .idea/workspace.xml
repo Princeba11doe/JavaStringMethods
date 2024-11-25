@@ -1,37 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3964457e-6cc5-41fa-8d02-1e9c672bd5d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsEmpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LengthMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcatMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConcatMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DemoReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoReplaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IndexOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LengthMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LengthMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Split.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Split.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestStringComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestStringComparision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestStringComparison2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestStringComparison2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestStringComparison3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestStringComparison3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToLowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrimMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrimMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Princeba11doe&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Princeba11doe/JavaStringMethods.git&quot;,
+    &quot;accountId&quot;: &quot;f9678c41-d448-46c5-8196-50c1f4470b19&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2p6WeBH05K2Jc7Erigy0H0xU9Gl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/new/IdeaProjects/JavaStringMethods/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConcatMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoReplaceAll.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestStringComparision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToLowerCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToUpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrimMethod.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/new/IdeaProjects/JavaStringMethods/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.TestStringComparision">
+    <configuration name="ConcatMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatMethod" />
+      <module name="JavaStringMethods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoReplaceAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoReplaceAll" />
+      <module name="JavaStringMethods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStringComparision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestStringComparision" />
+      <module name="JavaStringMethods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToLowerCase" />
+      <module name="JavaStringMethods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToUpperCase" />
+      <module name="JavaStringMethods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestStringComparision" />
+        <item itemvalue="Application.DemoReplaceAll" />
+        <item itemvalue="Application.ConcatMethod" />
+        <item itemvalue="Application.ToUpperCase" />
+        <item itemvalue="Application.ToLowerCase" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,11 +142,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732087099091</updated>
-      <workItem from="1732087100884" duration="33000" />
+      <workItem from="1732087100884" duration="2010000" />
+      <workItem from="1732111942249" duration="2676000" />
+      <workItem from="1732120417396" duration="909000" />
+      <workItem from="1732121749445" duration="3255000" />
+      <workItem from="1732285468385" duration="358000" />
+      <workItem from="1732409972707" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestStringComparision.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
